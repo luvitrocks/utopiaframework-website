@@ -1,0 +1,4 @@
+title: "Utopia Framework - Extensible HTTP server toolkit for Luvit I/O"
+_settings:
+  slug: "/"
+  template: "pages/homepage.html"
